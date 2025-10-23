@@ -1,0 +1,37 @@
+[
+    {
+        "Name": "Facbook",
+        "users(Million)":3.07,
+        "Operational":true,
+        "requiered regestration":true,
+        "founder":"Mark zuckerburg"
+    },
+    {
+        "Name": "instagram",
+        "users(Million)":3000,
+        "Operational":true,
+        "requiered regestration":true,
+        "founder":["Kevin Systrom","Mike Krieger"]
+    },
+    {
+        "Name": "X",
+        "users(Million)":611,
+        "Operational":true,
+        "requiered regestration":false,
+        "founder":"Elon Musk"
+    },
+    {
+        "Name": "GitHub",
+        "users(Million)":100,
+        "Operational":true,
+        "requiered regestration":true,
+        "founder":["Chris Wanstrath"," Scott Chacon", "Tom Preston-Werner"," P. J. Hyett"]
+    },
+    {
+        "Name": "Discord",
+        "users(Million)":259,
+        "Operational":true,
+        "requiered regestration":false,
+        "founder":["Jason Citron","Stanislav Vishnevskiy"]
+    }
+]
