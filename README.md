@@ -9,7 +9,7 @@ A social networking service is an online platform that people use to build socia
 
 Social networking sites play a crucial role in modern communication, marketing, and community building. Each platform offers unique features and caters to different audiences, making them valuable tools for personal and professional use. 
 
-Social media platforms continue to evolve, catering to various user needs and preferences. Whether for personal use, marketing, or community engagement, there is a platform suited for every purpose. Understanding the unique features and demographics of each site can help users choose the right platforms for their goals..G
+Social media platforms continue to evolve, catering to various user needs and preferences. Whether for personal use, marketing, or community engagement, there is a platform suited for every purpose. Understanding the unique features and demographics of each site can help users choose the right platforms for their goals.
 
 ![image](R.jpg)
 
