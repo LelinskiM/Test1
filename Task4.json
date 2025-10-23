@@ -1,0 +1,11 @@
+{
+    "name": "Facbook",
+    "year Created":2004,
+    "Users(Million)": 3.07,
+    "Operational": true,
+    "focus":
+        ["Images",
+        "Videos",
+        "descusions"],
+    "founder":"Mark Zuckerburg"
+}
