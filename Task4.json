@@ -7,5 +7,7 @@
         ["Images",
         "Videos",
         "descusions"],
-    "founder":"Mark Zuckerburg"
+    "founder":"Mark Zuckerburg",
+    "Requird regestration":true,
+    "Value(USD-Billion)":1.84
 }

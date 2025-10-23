@@ -31,7 +31,7 @@
         "Name": "Discord",
         "users(Million)":259,
         "Operational":true,
-        "requiered regestration":false,
+        "requiered regestration":true,
         "founder":["Jason Citron","Stanislav Vishnevskiy"]
     }
 ]
